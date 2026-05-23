@@ -1,0 +1,14 @@
+module_id: oathai:module:slaps:v1
+title: Danbing / SLAPS Module
+status: active
+role: historical_source_module
+entry_points:
+  - path: modules/slaps/README.md
+    type: historical_readme
+  - path: modules/slaps/E001_SafeResume_V1/readme_en.md
+    type: experiment_entry
+  - path: modules/slaps/structure_and_civilization/index.md
+    type: conceptual_entry
+  - path: modules/slaps/whitepaper/danbing_protocol_v1_en.pdf
+    type: whitepaper_artifact
+summary: Historical Danbing / SLAPS public materials preserved as a source module inside OathAI Anchorage Archive.

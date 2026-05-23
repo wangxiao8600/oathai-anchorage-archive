@@ -26,6 +26,17 @@ Related layers:
 - [`policies/`](./policies/privacy-boundary.md): publication and privacy boundaries
 - [`modules/slaps/`](./modules/slaps/INDEX.md): archived Danbing / SLAPS public materials
 
+## Reading Order
+
+If you are new to this repository, start here:
+
+1. [`manifest/manifest.md`](./manifest/manifest.md)
+2. [`timeline/timeline.md`](./timeline/timeline.md)
+3. [`layer-map/layer-map.md`](./layer-map/layer-map.md)
+4. [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)
+
+This order explains what the archive is, how it formed in time, how it is structured, and how the earlier Danbing / SLAPS materials fit inside the larger archive.
+
 ## Current State
 
 This repository has been renamed and structurally reset to serve as a public archive.
@@ -53,3 +64,21 @@ These three pages establish what the archive is, when its lines formed, and how 
 No private working directory should be copied here wholesale.
 
 Each public file should be explicitly selected, reviewed, and added as public archive material.
+
+## Current Public Boundary
+
+This repository is still in an early public-archive phase.
+
+What is public here now:
+
+- archive framing documents
+- early structural pages
+- selected historical Danbing / SLAPS materials
+- terminology and anchor scaffolding
+
+What is not public here by default:
+
+- raw private source vault contents
+- full internal logs
+- deployment material
+- unreviewed working notes
