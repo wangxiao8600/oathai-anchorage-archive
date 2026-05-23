@@ -17,6 +17,8 @@ This file provides a flat public index for the current repository surface.
 - [`layer-map/index.yaml`](./layer-map/index.yaml)
 - [`anchors/index.yaml`](./anchors/index.yaml)
 - [`glossary/terms.yaml`](./glossary/terms.yaml)
+- [`fragments/index.yaml`](./fragments/index.yaml)
+- [`anchor-traces/index.yaml`](./anchor-traces/index.yaml)
 - [`anchors/declarations/repo-root-v1.yaml`](./anchors/declarations/repo-root-v1.yaml)
 - [`anchors/declarations/manifest-page-v1.yaml`](./anchors/declarations/manifest-page-v1.yaml)
 - [`anchors/declarations/timeline-page-v1.yaml`](./anchors/declarations/timeline-page-v1.yaml)
@@ -26,6 +28,7 @@ This file provides a flat public index for the current repository surface.
 ## Archive Rules and Entry Documents
 
 - [`README.md`](./README.md)
+- [`STATUS.md`](./STATUS.md)
 - [`CITATION.md`](./CITATION.md)
 - [`ANCHOR_DECLARATION.md`](./ANCHOR_DECLARATION.md)
 - [`policies/publication-policy.md`](./policies/publication-policy.md)

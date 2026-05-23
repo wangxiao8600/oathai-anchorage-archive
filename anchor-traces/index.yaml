@@ -1,0 +1,7 @@
+trace_index_id: oathai:anchor-traces:index:v1
+status: active
+paths:
+  - anchor-traces/2026/05/trace-2026-05-23-bootstrap-example-001.yaml
+notes: >
+  This index tracks machine-readable anchor trace files currently present
+  in the repository.
