@@ -1,0 +1,17 @@
+declaration_index_id: oathai:declarations:index:v1
+status: active
+declarations:
+  - declaration_id: oathai:declaration:repo-root:v1
+    path: anchors/declarations/repo-root-v1.yaml
+    anchor_id: oathai:repo:oathai-anchorage-archive:v1
+  - declaration_id: oathai:declaration:manifest-page:v1
+    path: anchors/declarations/manifest-page-v1.yaml
+    anchor_id: oathai:page:manifest:v1
+  - declaration_id: oathai:declaration:timeline-page:v1
+    path: anchors/declarations/timeline-page-v1.yaml
+    anchor_id: oathai:page:timeline:v1
+  - declaration_id: oathai:declaration:layer-map-page:v1
+    path: anchors/declarations/layer-map-page-v1.yaml
+    anchor_id: oathai:page:layer-map:v1
+notes: >
+  This index tracks the current public anchor declaration files in the repository.

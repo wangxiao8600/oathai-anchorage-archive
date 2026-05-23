@@ -1,0 +1,10 @@
+module_index_id: oathai:modules:index:v1
+status: active
+modules:
+  - module_id: oathai:module:slaps:v1
+    path: modules/slaps/
+    role: historical_source_module
+    entry_file: modules/slaps/INDEX.md
+    map_file: modules/slaps/module-map.yaml
+notes: >
+  This index records the current archive modules exposed at the repository level.

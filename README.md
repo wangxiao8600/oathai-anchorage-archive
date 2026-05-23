@@ -29,6 +29,7 @@ Related layers:
 - [`layer-map/`](./layer-map/layer-map.md): semantic topology and archive map
 - [`anchors/`](./anchors/index.yaml): machine-readable anchor index
 - [`glossary/`](./glossary/terms.yaml): terminology governance
+- [`locales/`](./locales/index.yaml): public locale surface metadata
 - [`fragments/`](./fragments/README.md): curated public fragments
 - [`anchor-traces/`](./anchor-traces/README.md): machine-readable trace records after archive use
 - [`policies/`](./policies/privacy-boundary.md): publication and privacy boundaries

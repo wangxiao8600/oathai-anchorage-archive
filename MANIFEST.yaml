@@ -24,8 +24,14 @@ phase_1_pages:
 
 machine_readable_files:
   - anchors/index.yaml
+  - anchors/declarations/index.yaml
   - glossary/terms.yaml
   - layer-map/index.yaml
+  - locales/index.yaml
+  - modules/index.yaml
+  - policies/index.yaml
+  - fragments/index.yaml
+  - anchor-traces/index.yaml
 
 policies:
   - policies/publication-policy.md
@@ -35,6 +41,12 @@ modules:
   - module_id: oathai:module:slaps:v1
     path: modules/slaps/
     role: historical_source_module
+
+locales:
+  default: en
+  available:
+    - en
+    - zh
 
 notes: >
   This repository is a curated public archive surface rather than a mirror

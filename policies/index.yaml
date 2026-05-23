@@ -1,0 +1,11 @@
+policy_index_id: oathai:policies:index:v1
+status: active
+policies:
+  - policy_id: oathai:policy:publication:v1
+    path: policies/publication-policy.md
+    role: publication_boundary
+  - policy_id: oathai:policy:privacy-boundary:v1
+    path: policies/privacy-boundary.md
+    role: privacy_boundary
+notes: >
+  This index tracks the current public policy files for the repository.

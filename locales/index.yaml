@@ -1,0 +1,20 @@
+locale_index_id: oathai:locales:index:v1
+status: active
+default_locale: en
+available_locales:
+  - locale: en
+    role: canonical_public_locale
+    files:
+      - README.md
+      - manifest/manifest.md
+      - timeline/timeline.md
+      - layer-map/layer-map.md
+  - locale: zh
+    role: reviewed_public_locale
+    files:
+      - README.zh.md
+      - manifest/manifest.zh.md
+      - timeline/timeline.zh.md
+      - layer-map/layer-map.zh.md
+notes: >
+  This index records the current public locale surface of the repository.
