@@ -6,3 +6,18 @@ anchors:
     title: OathAI Anchorage Archive
     canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive
     status: active
+  - anchor_id: oathai:page:manifest:v1
+    type: page
+    title: Manifest
+    canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive/blob/main/manifest/manifest.md
+    status: active
+  - anchor_id: oathai:page:timeline:v1
+    type: page
+    title: Timeline
+    canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive/blob/main/timeline/timeline.md
+    status: active
+  - anchor_id: oathai:page:layer-map:v1
+    type: page
+    title: Layer Map
+    canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive/blob/main/layer-map/layer-map.md
+    status: active

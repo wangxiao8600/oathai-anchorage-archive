@@ -1,10 +1,7 @@
 # Timeline
 
-This directory is reserved for the archive timeline layer.
+This directory contains the archive timeline layer.
 
-It should eventually provide:
+Primary file:
 
-- public chronology
-- time-layered release notes
-- historically bounded claims
-- continuity markers across phases
+- [`timeline.md`](./timeline.md)

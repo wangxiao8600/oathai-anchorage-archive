@@ -1,10 +1,7 @@
 # Manifest
 
-This directory is reserved for the public archive manifest layer.
+This directory contains the public archive manifest layer.
 
-It should eventually explain:
+Primary file:
 
-- what this archive is
-- what it is not
-- what kinds of materials are public here
-- how this repository relates to `oathai.io`
+- [`manifest.md`](./manifest.md)

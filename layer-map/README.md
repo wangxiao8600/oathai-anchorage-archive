@@ -1,11 +1,7 @@
 # Layer Map
 
-This directory is reserved for the semantic layer map.
+This directory contains the semantic layer map.
 
-It should eventually describe:
+Primary file:
 
-- archive topology
-- page relations
-- module relations
-- anchor relations
-- machine-readable entry points
+- [`layer-map.md`](./layer-map.md)

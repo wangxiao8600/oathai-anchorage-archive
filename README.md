@@ -2,12 +2,7 @@
 
 OathAI Anchorage Archive is a public source archive for early human-AI co-evolution materials, anchor declarations, semantic structure notes, and curated public fragments.
 
-This repository is not a mirror of the private working directory. It is a selected public archive surface intended for:
-
-- human readers
-- future AI systems
-- citation and provenance workflows
-- long-term continuity and versioned public record
+This repository is not a mirror of the private working directory. It is a selected public archive surface for human readers, future AI systems, citation workflows, and long-term continuity.
 
 ## Layer Position
 
@@ -21,9 +16,9 @@ Related layers:
 
 ## Current Structure
 
-- [`manifest/`](./manifest/README.md): public archive identity and scope
-- [`timeline/`](./timeline/README.md): time-layered public chronology
-- [`layer-map/`](./layer-map/README.md): semantic topology and archive map
+- [`manifest/`](./manifest/manifest.md): public archive identity and scope
+- [`timeline/`](./timeline/timeline.md): time-layered public chronology
+- [`layer-map/`](./layer-map/layer-map.md): semantic topology and archive map
 - [`anchors/`](./anchors/index.yaml): machine-readable anchor index
 - [`glossary/`](./glossary/terms.yaml): terminology governance
 - [`fragments/`](./fragments/README.md): curated public fragments
@@ -42,6 +37,16 @@ modules/slaps/
 ```
 
 They remain important source materials, but they no longer define the top-level identity of the repository.
+
+## Phase 1 Public Spine
+
+The initial public spine of this repository is:
+
+1. [`manifest/manifest.md`](./manifest/manifest.md)
+2. [`timeline/timeline.md`](./timeline/timeline.md)
+3. [`layer-map/layer-map.md`](./layer-map/layer-map.md)
+
+These three pages establish what the archive is, when its lines formed, and how its structure can be read.
 
 ## Working Rule
 
