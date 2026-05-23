@@ -6,3 +6,10 @@ anchors_from:
   - anchor_id: oathai:page:manifest:v1
     relation: self
 summary: Public archive identity and scope statement for OathAI Anchorage Archive.
+locales:
+  en:
+    status: canonical
+    file: manifest.md
+  zh:
+    status: reviewed
+    file: manifest.zh.md

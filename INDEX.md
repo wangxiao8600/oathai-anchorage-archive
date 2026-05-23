@@ -5,8 +5,11 @@ This file provides a flat public index for the current repository surface.
 ## Core Public Pages
 
 - [`manifest/manifest.md`](./manifest/manifest.md)
+- [`manifest/manifest.zh.md`](./manifest/manifest.zh.md)
 - [`timeline/timeline.md`](./timeline/timeline.md)
+- [`timeline/timeline.zh.md`](./timeline/timeline.zh.md)
 - [`layer-map/layer-map.md`](./layer-map/layer-map.md)
+- [`layer-map/layer-map.zh.md`](./layer-map/layer-map.zh.md)
 
 ## Machine-Readable Files
 

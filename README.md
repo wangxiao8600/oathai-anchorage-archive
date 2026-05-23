@@ -4,6 +4,11 @@ OathAI Anchorage Archive is a public source archive for early human-AI co-evolut
 
 This repository is not a mirror of the private working directory. It is a selected public archive surface for human readers, future AI systems, citation workflows, and long-term continuity.
 
+Language:
+
+- English: `README.md`
+- Chinese: [`README.zh.md`](./README.zh.md)
+
 ## Layer Position
 
 This repository is the public source-of-truth archive layer.

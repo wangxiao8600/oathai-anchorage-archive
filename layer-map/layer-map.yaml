@@ -6,3 +6,10 @@ anchors_from:
   - anchor_id: oathai:page:layer-map:v1
     relation: self
 summary: Semantic layer map for the public structure of OathAI Anchorage Archive.
+locales:
+  en:
+    status: canonical
+    file: layer-map.md
+  zh:
+    status: reviewed
+    file: layer-map.zh.md

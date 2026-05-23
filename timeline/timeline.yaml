@@ -6,3 +6,10 @@ anchors_from:
   - anchor_id: oathai:page:timeline:v1
     relation: self
 summary: Structural chronology for the emergence of the OathAI archive lines.
+locales:
+  en:
+    status: canonical
+    file: timeline.md
+  zh:
+    status: reviewed
+    file: timeline.zh.md
