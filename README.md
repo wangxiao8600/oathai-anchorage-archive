@@ -17,6 +17,7 @@ Related layers:
 ## Current Structure
 
 - [`INDEX.md`](./INDEX.md): flat public repository index
+- [`MANIFEST.yaml`](./MANIFEST.yaml): repository-level machine-readable manifest
 - [`manifest/`](./manifest/manifest.md): public archive identity and scope
 - [`timeline/`](./timeline/timeline.md): time-layered public chronology
 - [`layer-map/`](./layer-map/layer-map.md): semantic topology and archive map

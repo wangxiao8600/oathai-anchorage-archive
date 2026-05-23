@@ -1,0 +1,11 @@
+declaration_id: oathai:declaration:timeline-page:v1
+anchor_id: oathai:page:timeline:v1
+type: page
+title: OathAI Timeline v1
+status: active
+declared_at: 2026-05-23
+canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive/blob/main/timeline/timeline.md
+related_to:
+  - oathai:repo:oathai-anchorage-archive:v1
+notes: >
+  Public declaration for the phase 1 timeline page of OathAI Anchorage Archive.

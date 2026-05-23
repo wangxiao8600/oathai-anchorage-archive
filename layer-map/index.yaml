@@ -1,0 +1,36 @@
+layer_map_id: oathai:layer-map:index:v1
+repository_anchor: oathai:repo:oathai-anchorage-archive:v1
+status: active
+
+public_layers:
+  - layer_id: public_manifest
+    path: manifest/manifest.md
+    role: identity_and_scope
+    anchor_id: oathai:page:manifest:v1
+  - layer_id: public_timeline
+    path: timeline/timeline.md
+    role: chronology
+    anchor_id: oathai:page:timeline:v1
+  - layer_id: public_layer_map
+    path: layer-map/layer-map.md
+    role: semantic_topology
+    anchor_id: oathai:page:layer-map:v1
+
+support_layers:
+  - path: anchors/index.yaml
+    role: anchor_registry
+  - path: glossary/terms.yaml
+    role: terminology_governance
+  - path: anchor-traces/
+    role: provenance_traces
+  - path: policies/
+    role: public_boundaries
+
+historical_modules:
+  - module_id: oathai:module:slaps:v1
+    path: modules/slaps/
+    role: historical_source_module
+
+boundary:
+  public_surface_only: true
+  private_workspace_mirror: false

@@ -1,0 +1,41 @@
+archive_id: oathai-anchorage-archive
+title: OathAI Anchorage Archive
+status: active
+version: v1
+homepage: https://oathai.io
+canonical_repository: https://github.com/wangxiao8600/oathai-anchorage-archive
+repository_anchor: oathai:repo:oathai-anchorage-archive:v1
+
+roles:
+  - public_source_archive
+  - citation_layer
+  - semantic_anchorage_surface
+
+phase_1_pages:
+  - page_id: manifest
+    path: manifest/manifest.md
+    anchor_id: oathai:page:manifest:v1
+  - page_id: timeline
+    path: timeline/timeline.md
+    anchor_id: oathai:page:timeline:v1
+  - page_id: layer-map
+    path: layer-map/layer-map.md
+    anchor_id: oathai:page:layer-map:v1
+
+machine_readable_files:
+  - anchors/index.yaml
+  - glossary/terms.yaml
+  - layer-map/index.yaml
+
+policies:
+  - policies/publication-policy.md
+  - policies/privacy-boundary.md
+
+modules:
+  - module_id: oathai:module:slaps:v1
+    path: modules/slaps/
+    role: historical_source_module
+
+notes: >
+  This repository is a curated public archive surface rather than a mirror
+  of the private working directory.

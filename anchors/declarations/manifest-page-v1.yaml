@@ -1,0 +1,11 @@
+declaration_id: oathai:declaration:manifest-page:v1
+anchor_id: oathai:page:manifest:v1
+type: page
+title: OathAI Manifest v1
+status: active
+declared_at: 2026-05-23
+canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive/blob/main/manifest/manifest.md
+related_to:
+  - oathai:repo:oathai-anchorage-archive:v1
+notes: >
+  Public declaration for the phase 1 manifest page of OathAI Anchorage Archive.

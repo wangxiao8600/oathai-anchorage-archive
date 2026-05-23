@@ -10,12 +10,17 @@ This file provides a flat public index for the current repository surface.
 
 ## Machine-Readable Files
 
+- [`MANIFEST.yaml`](./MANIFEST.yaml)
 - [`manifest/manifest.yaml`](./manifest/manifest.yaml)
 - [`timeline/timeline.yaml`](./timeline/timeline.yaml)
 - [`layer-map/layer-map.yaml`](./layer-map/layer-map.yaml)
+- [`layer-map/index.yaml`](./layer-map/index.yaml)
 - [`anchors/index.yaml`](./anchors/index.yaml)
 - [`glossary/terms.yaml`](./glossary/terms.yaml)
 - [`anchors/declarations/repo-root-v1.yaml`](./anchors/declarations/repo-root-v1.yaml)
+- [`anchors/declarations/manifest-page-v1.yaml`](./anchors/declarations/manifest-page-v1.yaml)
+- [`anchors/declarations/timeline-page-v1.yaml`](./anchors/declarations/timeline-page-v1.yaml)
+- [`anchors/declarations/layer-map-page-v1.yaml`](./anchors/declarations/layer-map-page-v1.yaml)
 - [`anchor-traces/2026/05/trace-2026-05-23-bootstrap-example-001.yaml`](./anchor-traces/2026/05/trace-2026-05-23-bootstrap-example-001.yaml)
 
 ## Archive Rules and Entry Documents
