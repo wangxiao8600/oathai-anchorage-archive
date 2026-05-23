@@ -16,6 +16,7 @@ Related layers:
 
 ## Current Structure
 
+- [`INDEX.md`](./INDEX.md): flat public repository index
 - [`manifest/`](./manifest/manifest.md): public archive identity and scope
 - [`timeline/`](./timeline/timeline.md): time-layered public chronology
 - [`layer-map/`](./layer-map/layer-map.md): semantic topology and archive map
@@ -33,7 +34,8 @@ If you are new to this repository, start here:
 1. [`manifest/manifest.md`](./manifest/manifest.md)
 2. [`timeline/timeline.md`](./timeline/timeline.md)
 3. [`layer-map/layer-map.md`](./layer-map/layer-map.md)
-4. [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)
+4. [`INDEX.md`](./INDEX.md)
+5. [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)
 
 This order explains what the archive is, how it formed in time, how it is structured, and how the earlier Danbing / SLAPS materials fit inside the larger archive.
 

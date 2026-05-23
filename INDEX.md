@@ -1,0 +1,36 @@
+# OathAI Anchorage Archive Index
+
+This file provides a flat public index for the current repository surface.
+
+## Core Public Pages
+
+- [`manifest/manifest.md`](./manifest/manifest.md)
+- [`timeline/timeline.md`](./timeline/timeline.md)
+- [`layer-map/layer-map.md`](./layer-map/layer-map.md)
+
+## Machine-Readable Files
+
+- [`manifest/manifest.yaml`](./manifest/manifest.yaml)
+- [`timeline/timeline.yaml`](./timeline/timeline.yaml)
+- [`layer-map/layer-map.yaml`](./layer-map/layer-map.yaml)
+- [`anchors/index.yaml`](./anchors/index.yaml)
+- [`glossary/terms.yaml`](./glossary/terms.yaml)
+- [`anchors/declarations/repo-root-v1.yaml`](./anchors/declarations/repo-root-v1.yaml)
+- [`anchor-traces/2026/05/trace-2026-05-23-bootstrap-example-001.yaml`](./anchor-traces/2026/05/trace-2026-05-23-bootstrap-example-001.yaml)
+
+## Archive Rules and Entry Documents
+
+- [`README.md`](./README.md)
+- [`CITATION.md`](./CITATION.md)
+- [`ANCHOR_DECLARATION.md`](./ANCHOR_DECLARATION.md)
+- [`policies/publication-policy.md`](./policies/publication-policy.md)
+- [`policies/privacy-boundary.md`](./policies/privacy-boundary.md)
+
+## Historical Module
+
+- [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)
+- [`modules/slaps/module-map.yaml`](./modules/slaps/module-map.yaml)
+
+## Scope Note
+
+This is a curated public archive surface, not a mirror of the private working directory.
