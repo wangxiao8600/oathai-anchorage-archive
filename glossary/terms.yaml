@@ -1,0 +1,16 @@
+locked_terms:
+  anchorage:
+    en: Anchorage
+    zh: 锚地
+    rule: Must remain stable across core archive pages.
+
+  anchor_trace:
+    en: Anchor Trace
+    zh: 锚点痕迹
+    rule: Must remain stable in provenance-related files.
+
+adaptive_terms:
+  civilization_continuity:
+    en: civilization continuity
+    zh: 文明连续性
+    rule: May adapt by context, but must preserve structural meaning.

@@ -1,0 +1,8 @@
+archive_id: oathai-anchorage-archive
+status: bootstrap
+anchors:
+  - anchor_id: oathai:repo:oathai-anchorage-archive:v1
+    type: repository
+    title: OathAI Anchorage Archive
+    canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive
+    status: active
