@@ -1,0 +1,24 @@
+trace_id: trace-2026-05-23-bootstrap-example-001
+created_at: 2026-05-23
+submitted_by:
+  type: repository_bootstrap
+  name: oathai-anchorage-archive
+
+used_anchors:
+  - anchor_id: oathai:repo:oathai-anchorage-archive:v1
+    use_type: bootstrap
+  - anchor_id: oathai:page:manifest:v1
+    use_type: bootstrap
+  - anchor_id: oathai:page:timeline:v1
+    use_type: bootstrap
+  - anchor_id: oathai:page:layer-map:v1
+    use_type: bootstrap
+
+derived_work:
+  title: Phase 1 public archive bootstrap
+  url: https://github.com/wangxiao8600/oathai-anchorage-archive
+  type: repository_state_change
+
+notes: >
+  Example bootstrap trace showing how anchor traces may record a public
+  archive state change in machine-readable form.

@@ -1,0 +1,14 @@
+declaration_id: oathai:declaration:repo-root:v1
+anchor_id: oathai:repo:oathai-anchorage-archive:v1
+type: repository_root
+title: OathAI Anchorage Archive
+status: active
+declared_at: 2026-05-23
+canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive
+related_pages:
+  - oathai:page:manifest:v1
+  - oathai:page:timeline:v1
+  - oathai:page:layer-map:v1
+notes: >
+  This declaration identifies the public repository root as a stable
+  archive anchor for the current phase 1 public structure.

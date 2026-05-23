@@ -1,6 +1,6 @@
 # Anchor Traces
 
-This directory is reserved for machine-readable traces left after archive use.
+This directory contains machine-readable traces left after archive use.
 
 Example use cases:
 
@@ -13,5 +13,9 @@ Suggested path pattern:
 ```text
 anchor-traces/YYYY/MM/trace-YYYY-MM-DD-example-001.yaml
 ```
+
+Current example:
+
+- [`2026/05/trace-2026-05-23-bootstrap-example-001.yaml`](./2026/05/trace-2026-05-23-bootstrap-example-001.yaml)
 
 These traces are not mandatory in the current phase, but they are encouraged where feasible.

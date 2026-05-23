@@ -24,4 +24,13 @@ https://github.com/wangxiao8600/oathai-anchorage-archive
 Accessed YYYY-MM-DD.
 ```
 
+Example file-level citation format:
+
+```text
+Wang Xiao. "OathAI Manifest v1." OathAI Anchorage Archive.
+manifest/manifest.md
+https://github.com/wangxiao8600/oathai-anchorage-archive/blob/main/manifest/manifest.md
+Accessed YYYY-MM-DD.
+```
+
 More file-level citation rules may be added later.
