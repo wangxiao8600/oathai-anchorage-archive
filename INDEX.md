@@ -49,6 +49,10 @@ This file provides a flat public index for the current repository surface.
 - [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)
 - [`modules/slaps/module-map.yaml`](./modules/slaps/module-map.yaml)
 
+## Method Module
+
+- [`modules/translation-master-framework/README.md`](./modules/translation-master-framework/README.md)
+
 ## Scope Note
 
 This is a curated public archive surface, not a mirror of the private working directory.

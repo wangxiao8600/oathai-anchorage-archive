@@ -45,6 +45,10 @@ modules:
   - module_id: oathai:module:slaps:v1
     path: modules/slaps/
     role: historical_source_module
+  - module_id: oathai:module:translation-master-framework:v1
+    path: modules/translation-master-framework/
+    role: method_layer_entry
+    website_page: https://oathai.io/translation-master-framework
 
 locales:
   default: en

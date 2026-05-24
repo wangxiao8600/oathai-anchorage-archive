@@ -6,5 +6,10 @@ modules:
     role: historical_source_module
     entry_file: modules/slaps/INDEX.md
     map_file: modules/slaps/module-map.yaml
+  - module_id: oathai:module:translation-master-framework:v1
+    path: modules/translation-master-framework/
+    role: method_layer_entry
+    entry_file: modules/translation-master-framework/README.md
+    website_page: https://oathai.io/translation-master-framework
 notes: >
   This index records the current archive modules exposed at the repository level.
