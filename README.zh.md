@@ -27,6 +27,11 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 - [`manifest/manifest.md`](./manifest/manifest.md)：档案身份与范围
 - [`timeline/timeline.md`](./timeline/timeline.md)：时间分层主线
 - [`layer-map/layer-map.md`](./layer-map/layer-map.md)：语义层地图
+- [`anchors/`](./anchors/index.yaml)：机器可读锚点索引
+- [`glossary/`](./glossary/terms.yaml)：术语治理
+- [`anchor-traces/`](./anchor-traces/README.md)：档案使用后的机器可读痕迹记录
+- [`docs/adjacent-lineages.md`](./docs/adjacent-lineages.md)：相邻档案、来源、内容凭证、agent 工作流与数据谱系定位
+- [`policies/`](./policies/privacy-boundary.md)：发布与隐私边界
 - [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)：Danbing / SLAPS 历史模块
 
 ## 阅读顺序
