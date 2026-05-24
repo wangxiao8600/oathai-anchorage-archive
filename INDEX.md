@@ -38,6 +38,7 @@ This file provides a flat public index for the current repository surface.
 - [`STATUS.md`](./STATUS.md)
 - [`CITATION.md`](./CITATION.md)
 - [`ANCHOR_DECLARATION.md`](./ANCHOR_DECLARATION.md)
+- [`docs/adjacent-lineages.md`](./docs/adjacent-lineages.md)
 - [`policies/publication-policy.md`](./policies/publication-policy.md)
 - [`policies/privacy-boundary.md`](./policies/privacy-boundary.md)
 

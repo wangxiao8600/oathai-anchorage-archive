@@ -34,6 +34,7 @@ Related layers:
 - [`locales/`](./locales/index.yaml): public locale surface metadata
 - [`fragments/`](./fragments/README.md): curated public fragments
 - [`anchor-traces/`](./anchor-traces/README.md): machine-readable trace records after archive use
+- [`docs/adjacent-lineages.md`](./docs/adjacent-lineages.md): adjacent archive, provenance, authenticity, agentic workflow, and data-lineage traditions
 - [`policies/`](./policies/privacy-boundary.md): publication and privacy boundaries
 - [`modules/`](./modules/README.md): historical or thematic archive modules
 - [`modules/slaps/`](./modules/slaps/INDEX.md): archived Danbing / SLAPS public materials

@@ -37,6 +37,10 @@ policies:
   - policies/publication-policy.md
   - policies/privacy-boundary.md
 
+positioning_documents:
+  - path: docs/adjacent-lineages.md
+    role: adjacent_lineage_positioning
+
 modules:
   - module_id: oathai:module:slaps:v1
     path: modules/slaps/
