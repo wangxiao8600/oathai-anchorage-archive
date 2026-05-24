@@ -11,8 +11,6 @@ entry_points:
     type: conceptual_entry
   - path: modules/slaps/whitepaper/danbing_protocol_v1_en.pdf
     type: whitepaper_artifact
-  - path: modules/slaps/whitepaper/danbing_slaps_capsule_structure_whitepaper_v1.pdf
-    type: whitepaper_artifact
   - path: modules/slaps/experiments/e001/e001_saferesume_report_v1.pdf
     type: experiment_report
   - path: modules/slaps/experiments/e001/e001_design_document_v6.pdf

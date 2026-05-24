@@ -31,9 +31,10 @@ It is no longer the repository's top-level identity, but it remains one of the m
 - [`E001_SafeResume_V1/readme_en.md`](./E001_SafeResume_V1/readme_en.md): experiment-facing entry
 - [`structure_and_civilization/index.md`](./structure_and_civilization/index.md): conceptual line
 - [`whitepaper/danbing_protocol_v1_en.pdf`](./whitepaper/danbing_protocol_v1_en.pdf): Danbing natural-language protocol whitepaper
-- [`whitepaper/danbing_slaps_capsule_structure_whitepaper_v1.pdf`](./whitepaper/danbing_slaps_capsule_structure_whitepaper_v1.pdf): Danbing / SLAPS capsule structure whitepaper
 - [`experiments/e001/e001_saferesume_report_v1.pdf`](./experiments/e001/e001_saferesume_report_v1.pdf): E001 SafeResume experiment report
 - [`experiments/e001/e001_design_document_v6.pdf`](./experiments/e001/e001_design_document_v6.pdf): E001 design document
+
+The Danbing / SLAPS capsule structure whitepaper is complete but not publicly released in this repository at this stage.
 
 ## Module Boundary
 
