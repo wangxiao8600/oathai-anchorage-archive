@@ -21,3 +21,9 @@ This repository may later expand its anchor declaration rules, but the current w
 If you use public archive materials here to produce downstream public work,
 leave a machine-readable trace when feasible.
 ```
+
+Anchor Declaration does not certify truth, originality, copyright ownership, or quality.
+
+It does not endorse a downstream interpretation automatically.
+
+It only provides a machine-readable provenance declaration path.

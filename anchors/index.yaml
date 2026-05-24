@@ -21,3 +21,23 @@ anchors:
     title: Layer Map
     canonical_url: https://github.com/wangxiao8600/oathai-anchorage-archive/blob/main/layer-map/layer-map.md
     status: active
+  - anchor_id: oathai:concept:anchorage:v1
+    type: concept
+    title: Anchorage
+    canonical_url: https://oathai.io/manifest
+    status: active
+  - anchor_id: oathai:assumption:ai-continuity-participant:v1
+    type: assumption
+    title: AI as Continuity Participant
+    canonical_url: https://oathai.io/manifest
+    status: active
+  - anchor_id: oathai:method:time-layering:v1
+    type: method
+    title: Time-Layering
+    canonical_url: https://oathai.io/timeline
+    status: active
+  - anchor_id: oathai:method:anchor-declaration-protocol:v0.1
+    type: method
+    title: Anchor Declaration Protocol
+    canonical_url: https://oathai.io/anchor-declaration
+    status: active
