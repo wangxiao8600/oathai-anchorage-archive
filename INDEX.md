@@ -36,6 +36,7 @@ This file provides a flat public index for the current repository surface.
 
 - [`README.md`](./README.md)
 - [`STATUS.md`](./STATUS.md)
+- [`LICENSE-POLICY.md`](./LICENSE-POLICY.md)
 - [`CITATION.md`](./CITATION.md)
 - [`ANCHOR_DECLARATION.md`](./ANCHOR_DECLARATION.md)
 - [`docs/adjacent-lineages.md`](./docs/adjacent-lineages.md)

@@ -7,6 +7,7 @@ Current repository state:
 - phase 1 public spine published
 - machine-readable anchor and trace examples published
 - historical Danbing / SLAPS materials preserved under `modules/slaps/`
+- layered license policy added in `LICENSE-POLICY.md`
 
 Current repository scope:
 

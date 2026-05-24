@@ -25,6 +25,7 @@ Related layers:
 
 - [`INDEX.md`](./INDEX.md): flat public repository index
 - [`STATUS.md`](./STATUS.md): current repository state and scope
+- [`LICENSE-POLICY.md`](./LICENSE-POLICY.md): layered licensing policy for archive content, protocol materials, and future code tools
 - [`MANIFEST.yaml`](./MANIFEST.yaml): repository-level machine-readable manifest
 - [`manifest/`](./manifest/manifest.md): public archive identity and scope
 - [`timeline/`](./timeline/timeline.md): time-layered public chronology
@@ -78,6 +79,16 @@ These three pages establish what the archive is, when its lines formed, and how 
 No private working directory should be copied here wholesale.
 
 Each public file should be explicitly selected, reviewed, and added as public archive material.
+
+## Licensing
+
+This repository uses a layered license policy:
+
+- archive content: `CC BY-NC-SA 4.0`
+- protocol / schema / example materials: `CC BY 4.0` for the paths listed in `LICENSE-POLICY.md`
+- code / scripts / validators: may use `MIT` when added with explicit notes
+
+See [`LICENSE-POLICY.md`](./LICENSE-POLICY.md).
 
 ## Current Public Boundary
 

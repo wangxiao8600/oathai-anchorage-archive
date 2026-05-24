@@ -23,6 +23,7 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 
 - [`INDEX.md`](./INDEX.md)：平铺索引
 - [`STATUS.md`](./STATUS.md)：当前仓库状态
+- [`LICENSE-POLICY.md`](./LICENSE-POLICY.md)：档案内容、协议材料与未来代码工具的分层许可策略
 - [`MANIFEST.yaml`](./MANIFEST.yaml)：仓库级机器可读清单
 - [`manifest/manifest.md`](./manifest/manifest.md)：档案身份与范围
 - [`timeline/timeline.md`](./timeline/timeline.md)：时间分层主线
@@ -59,3 +60,13 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 - 完整内部日志
 - 部署材料
 - 未审阅工作笔记
+
+## 许可策略
+
+本仓库采用分层许可策略：
+
+- 档案内容：默认 `CC BY-NC-SA 4.0`
+- 协议 / schema（结构文件）/ 示例材料：`LICENSE-POLICY.md` 列出的路径采用 `CC BY 4.0`
+- 代码 / 脚本 / 校验器：未来加入时可用 `MIT`
+
+详见 [`LICENSE-POLICY.md`](./LICENSE-POLICY.md)。
