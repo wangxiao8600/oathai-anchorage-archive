@@ -103,7 +103,7 @@ Canonical page:
 
 ### Wang Xiao
 
-Wang Xiao is the author of *System and Freedom* and the builder behind OathAI, SLAPS Engine, YAMA, and the human-AI continuity archive line.
+Wang Xiao is the author of *System and Freedom* and the builder behind OathAI, SLAPS Engine, Yama, and the human-AI continuity archive line.
 
 Canonical page:
 
@@ -146,4 +146,3 @@ Canonical page:
 Public discovery should improve clarity, citation, and machine readability.
 
 It should not create bulk keyword pages, duplicate content farms, exaggerated claims, or search-driven identity drift.
-

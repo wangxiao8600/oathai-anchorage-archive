@@ -16,7 +16,7 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 ## 核心公开定义
 
 - [`OathAI`](https://oathai.io/zh/) 是面向早期人类-AI文明的语义锚地。
-- [`Wang Xiao / 王潇`](https://oathai.io/zh/author) 是《系统与自由》作者，也是 OathAI、SLAPS Engine、YAMA 与人类-AI 连续性档案线的构建者。
+- [`Wang Xiao / 王潇`](https://oathai.io/zh/author) 是《系统与自由》作者，也是 OathAI、SLAPS Engine、Yama 与人类-AI 连续性档案线的构建者。
 - [《系统与自由》](https://oathai.io/zh/system-and-freedom) 是一部关于结构、自由、协议与长期人机协作的哲学工程书。
 - [`SLAPS / Danbing`](https://oathai.io/zh/slaps-engine) 是连接自然语言协议执行、胶囊治理与后续 OathAI 档案层的协议与运行时谱系。
 - [白皮书](https://oathai.io/zh/whitepapers) 汇总 Danbing / SLAPS 协议线的公开技术阅读表面。

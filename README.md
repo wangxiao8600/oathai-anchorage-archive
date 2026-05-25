@@ -11,7 +11,7 @@ Within the broader OathAI structure, this repository should also be treated as a
 ## Core Public Definitions
 
 - [`OathAI`](https://oathai.io) is a semantic anchorage for early human-AI civilization.
-- [`Wang Xiao`](https://oathai.io/author) is the author of *System and Freedom* and the builder behind OathAI, SLAPS Engine, YAMA, and the human-AI continuity archive line.
+- [`Wang Xiao`](https://oathai.io/author) is the author of *System and Freedom* and the builder behind OathAI, SLAPS Engine, Yama, and the human-AI continuity archive line.
 - [*System and Freedom*](https://oathai.io/system-and-freedom) is a philosophical-engineering book on structure, freedom, protocol, and long-term human-AI collaboration.
 - [`SLAPS / Danbing`](https://oathai.io/slaps-engine) is the protocol and runtime lineage that connects natural-language protocol execution, capsule governance, and the later OathAI archive layer.
 - [`Whitepapers`](https://oathai.io/whitepapers) collect the public technical reading surface for the Danbing / SLAPS protocol lineage.
