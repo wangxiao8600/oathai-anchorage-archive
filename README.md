@@ -51,6 +51,7 @@ Related layers:
 - [`policies/`](./policies/privacy-boundary.md): publication and privacy boundaries
 - [`modules/`](./modules/README.md): historical or thematic archive modules
 - [`modules/slaps/`](./modules/slaps/INDEX.md): archived Danbing / SLAPS public materials
+- [`modules/translation-master-framework/`](./modules/translation-master-framework/INDEX.md): public method-layer module for the Translation Master Framework
 
 ## Reading Order
 
@@ -61,6 +62,7 @@ If you are new to this repository, start here:
 3. [`layer-map/layer-map.md`](./layer-map/layer-map.md)
 4. [`INDEX.md`](./INDEX.md)
 5. [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)
+6. [`modules/translation-master-framework/INDEX.md`](./modules/translation-master-framework/INDEX.md)
 
 This order explains what the archive is, how it formed in time, how it is structured, and how the earlier Danbing / SLAPS materials fit inside the larger archive.
 

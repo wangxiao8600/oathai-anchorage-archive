@@ -53,6 +53,11 @@ This file provides a flat public index for the current repository surface.
 ## Method Module
 
 - [`modules/translation-master-framework/README.md`](./modules/translation-master-framework/README.md)
+- [`modules/translation-master-framework/INDEX.md`](./modules/translation-master-framework/INDEX.md)
+- [`modules/translation-master-framework/module-map.yaml`](./modules/translation-master-framework/module-map.yaml)
+- [`modules/translation-master-framework/terminology.md`](./modules/translation-master-framework/terminology.md)
+- [`modules/translation-master-framework/method-components.md`](./modules/translation-master-framework/method-components.md)
+- [`modules/translation-master-framework/source-boundary.md`](./modules/translation-master-framework/source-boundary.md)
 
 ## Scope Note
 

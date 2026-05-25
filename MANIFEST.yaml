@@ -76,6 +76,8 @@ modules:
   - module_id: oathai:module:translation-master-framework:v1
     path: modules/translation-master-framework/
     role: method_layer_entry
+    entry_file: modules/translation-master-framework/INDEX.md
+    map_file: modules/translation-master-framework/module-map.yaml
     website_page: https://oathai.io/translation-master-framework
 
 locales:

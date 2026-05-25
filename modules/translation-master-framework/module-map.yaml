@@ -1,0 +1,55 @@
+module_id: oathai:module:translation-master-framework:v1
+anchor_id: oathai:method:translation-master-framework:v1
+title: Translation Master Framework
+status: active
+type: method_layer_module
+website_page: https://oathai.io/translation-master-framework
+source_work:
+  title: System and Freedom
+  url: https://oathai.io/system-and-freedom
+related_surface:
+  title: 21 Languages
+  url: https://oathai.io/cover
+core_formula:
+  en: Read Chinese, check English terms, think in the target language.
+  zh: 读中文原文，检查英文术语，在目标语言中原生思考。
+module_files:
+  - path: modules/translation-master-framework/README.md
+    role: module_entry
+  - path: modules/translation-master-framework/INDEX.md
+    role: structure_index
+  - path: modules/translation-master-framework/terminology.md
+    role: core_terms
+  - path: modules/translation-master-framework/method-components.md
+    role: method_components
+  - path: modules/translation-master-framework/source-boundary.md
+    role: publication_boundary
+method_components:
+  - translation_guidelines
+  - core_ideas
+  - core_terminology
+  - key_phrases
+  - emotion_intensity_mapping
+  - translation_decision_tree
+  - multi_language_alignment_matrix
+  - cultural_adaptation_methodology
+  - resurrection_methodology_manifest
+path_evolution:
+  early_planning: Chinese source -> English alignment version -> other languages
+  mature_pattern: Chinese source -> target language, with English as terminology and structure reference
+public_boundary:
+  public:
+    - framework_identity
+    - method_positioning
+    - component_map
+    - core_terms
+    - path_evolution
+  private_by_default:
+    - raw_translation_workspaces
+    - unpublished_review_logs
+    - full_model_conversations
+    - private_source_materials
+    - unreviewed_humorous_fragments
+notes: >
+  This module is a curated public archive surface for the Translation Master
+  Framework, not a dump of the private multilingual working directory.

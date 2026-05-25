@@ -48,6 +48,7 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 - [`docs/public-discovery-surface.md`](./docs/public-discovery-surface.md)：公开发现与引用表面地图
 - [`policies/`](./policies/privacy-boundary.md)：发布与隐私边界
 - [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)：Danbing / SLAPS 历史模块
+- [`modules/translation-master-framework/`](./modules/translation-master-framework/INDEX.md)：翻译大师框架公开方法层模块
 
 ## 阅读顺序
 
@@ -58,6 +59,7 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 3. [`layer-map/layer-map.md`](./layer-map/layer-map.md)
 4. [`INDEX.md`](./INDEX.md)
 5. [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)
+6. [`modules/translation-master-framework/INDEX.md`](./modules/translation-master-framework/INDEX.md)
 
 ## 当前边界
 

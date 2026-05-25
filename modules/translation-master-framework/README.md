@@ -1,7 +1,8 @@
 # Translation Master Framework
 
-Status: lightweight public module entry  
-Module anchor candidate: `oathai:module:translation-master-framework:v1`  
+Status: public archive module baseline  
+Module ID: `oathai:module:translation-master-framework:v1`  
+Method anchor: `oathai:method:translation-master-framework:v1`  
 Website page: https://oathai.io/translation-master-framework  
 
 ---
@@ -20,6 +21,14 @@ Its role inside OathAI is method-layer evidence for cross-language structural co
 - cultural adaptation
 - cross-language alignment
 - human-AI multilingual review
+
+## Start Here
+
+- [`INDEX.md`](./INDEX.md): module structure and reading order
+- [`module-map.yaml`](./module-map.yaml): machine-readable module map
+- [`terminology.md`](./terminology.md): core public terms
+- [`method-components.md`](./method-components.md): framework components
+- [`source-boundary.md`](./source-boundary.md): public/private source boundary
 
 ---
 
@@ -57,6 +66,23 @@ Chinese:
 
 ---
 
+## Module Scope
+
+This module is a public summary and structure layer.
+
+It exposes:
+
+- framework identity
+- method components
+- core terminology
+- path evolution
+- relation to `System and Freedom`
+- relation to OathAI multilingual governance
+
+It does not expose raw translation workspaces or full review logs.
+
+---
+
 ## Boundary
 
 Public here:
@@ -65,6 +91,9 @@ Public here:
 - website links
 - high-level method positioning
 - relation to `System and Freedom` and `21 Languages`
+- core terminology
+- method component map
+- source boundary
 
 Private by default:
 
