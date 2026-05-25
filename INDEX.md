@@ -41,6 +41,7 @@ This file provides a flat public index for the current repository surface.
 - [`ANCHOR_DECLARATION.md`](./ANCHOR_DECLARATION.md)
 - [`docs/adjacent-lineages.md`](./docs/adjacent-lineages.md)
 - [`docs/public-discovery-surface.md`](./docs/public-discovery-surface.md)
+- [`docs/implementation-chain.md`](./docs/implementation-chain.md)
 - [`policies/publication-policy.md`](./policies/publication-policy.md)
 - [`policies/privacy-boundary.md`](./policies/privacy-boundary.md)
 

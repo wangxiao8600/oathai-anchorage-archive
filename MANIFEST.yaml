@@ -30,7 +30,7 @@ public_definitions:
   yama:
     title: Yama
     url: https://oathai.io/yama-capsule
-    definition: Implementation-layer experiment derived from the Whitepaper 1 -> SLAPS Engine -> Whitepaper 2 -> Yama chain.
+    definition: Implemented platform experiment derived from the Whitepaper 1 -> SLAPS Engine -> Whitepaper 2 -> Yama chain.
 
 roles:
   - public_source_archive
@@ -68,6 +68,8 @@ positioning_documents:
     role: adjacent_lineage_positioning
   - path: docs/public-discovery-surface.md
     role: public_discovery_surface_map
+  - path: docs/implementation-chain.md
+    role: implementation_chain_reference
 
 modules:
   - module_id: oathai:module:slaps:v1

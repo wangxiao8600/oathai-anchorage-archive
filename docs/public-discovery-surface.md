@@ -135,7 +135,7 @@ Canonical page:
 
 ### Yama
 
-Yama is the implementation-layer experiment derived from the Whitepaper 1 -> SLAPS Engine -> Whitepaper 2 -> Yama chain.
+Yama is the implemented platform experiment derived from the Whitepaper 1 -> SLAPS Engine -> Whitepaper 2 -> Yama chain.
 
 Canonical page:
 
