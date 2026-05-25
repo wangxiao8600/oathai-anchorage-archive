@@ -9,8 +9,44 @@ locked_terms:
     zh: 锚点痕迹
     rule: Must remain stable in provenance-related files.
 
+  system_and_freedom:
+    en: System and Freedom
+    zh: 系统与自由
+    rule: Official book title. Use the English title in English contexts and the Chinese title in Chinese contexts.
+
+  translation_master_framework:
+    en: Translation Master Framework
+    zh: 翻译大师框架
+    rule: Method-layer name for the cross-language structural continuity framework.
+
+  anchor_declaration_protocol:
+    en: Anchor Declaration Protocol
+    zh: 锚点声明协议
+    rule: Protocol-layer name for machine-readable provenance declaration.
+
 adaptive_terms:
   civilization_continuity:
     en: civilization continuity
     zh: 文明连续性
     rule: May adapt by context, but must preserve structural meaning.
+
+reserved_terms:
+  oathai:
+    en: OathAI
+    zh: OathAI
+    rule: Keep the project name untranslated.
+
+  slaps:
+    en: SLAPS
+    zh: SLAPS
+    rule: Keep the acronym unchanged unless an official expanded localized form is required nearby.
+
+  danbing:
+    en: Danbing
+    zh: Danbing / 单兵
+    rule: Preserve Danbing as the public technical lineage name; Chinese pages may add 单兵 where useful.
+
+  yama:
+    en: Yama
+    zh: Yama
+    rule: Keep the implementation surface name stable.

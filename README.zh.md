@@ -20,6 +20,7 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 - [《系统与自由》](https://oathai.io/zh/system-and-freedom) 是一部关于结构、自由、协议与长期人机协作的哲学工程书。
 - [`SLAPS / Danbing`](https://oathai.io/zh/slaps-engine) 是连接自然语言协议执行、胶囊治理与后续 OathAI 档案层的协议与运行时谱系。
 - [白皮书](https://oathai.io/zh/whitepapers) 汇总 Danbing / SLAPS 协议线的公开技术阅读表面。
+- [`Yama`](https://oathai.io/zh/yama-capsule) 是从 Whitepaper 1 -> SLAPS Engine -> Whitepaper 2 -> Yama 这条链发展出的实现层实验。
 
 ## 层级位置
 
@@ -44,6 +45,7 @@ OathAI 锚地档案库是一个公开事实源档案，用于保存早期人类-
 - [`glossary/`](./glossary/terms.yaml)：术语治理
 - [`anchor-traces/`](./anchor-traces/README.md)：档案使用后的机器可读痕迹记录
 - [`docs/adjacent-lineages.md`](./docs/adjacent-lineages.md)：相邻档案、来源、内容凭证、agent 工作流与数据谱系定位
+- [`docs/public-discovery-surface.md`](./docs/public-discovery-surface.md)：公开发现与引用表面地图
 - [`policies/`](./policies/privacy-boundary.md)：发布与隐私边界
 - [`modules/slaps/INDEX.md`](./modules/slaps/INDEX.md)：Danbing / SLAPS 历史模块
 

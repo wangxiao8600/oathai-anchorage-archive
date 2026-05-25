@@ -109,7 +109,7 @@
 
 - 这个档案获得了一个重要叙事与概念锚点
 
-### 9. 多语言连续性
+### 9. 翻译大师框架 / 多语言连续性
 
 之后，项目跨入了多语言结构连续性阶段。
 
@@ -124,13 +124,26 @@
 
 - 结构开始接受跨语种考验
 
-### 10. 平台与档案建设
+### 10. 第二份白皮书 / Yama
 
-协议思维进入更明确的平台与档案形态。
+胶囊治理随后从本地理论进入实现层应用表面。
 
 这一阶段包括：
 
-- 平台实验
+- 第二份白皮书中的胶囊治理工作
+- Yama 实现
+- 空间、上传、快照与助手结构
+
+为什么重要：
+
+- 协议与胶囊治理进入了应用形态
+
+### 11. 档案建设
+
+OathAI 将前面积累的工作重新组织成明确的公开档案形态。
+
+这一阶段包括：
+
 - 快照
 - 层地图
 - 注释片段
@@ -143,7 +156,7 @@
 ## 压缩序列
 
 ```text
-constraint -> system -> scale -> runtime -> fragility -> kernel -> protocol -> book -> multilingual continuity -> platform -> archive anchorage
+constraint -> system -> scale -> runtime -> fragility -> kernel -> protocol -> book -> translation continuity -> Whitepaper 2 / Yama -> archive anchorage
 ```
 
 ## 为什么需要这条时间线

@@ -6,6 +6,32 @@ homepage: https://oathai.io
 canonical_repository: https://github.com/wangxiao8600/oathai-anchorage-archive
 repository_anchor: oathai:repo:oathai-anchorage-archive:v1
 
+public_definitions:
+  oathai:
+    title: OathAI
+    url: https://oathai.io
+    definition: Semantic anchorage for early human-AI civilization.
+  wang_xiao:
+    title: Wang Xiao
+    url: https://oathai.io/author
+    definition: Author of System and Freedom and builder behind OathAI, SLAPS Engine, YAMA, and the human-AI continuity archive line.
+  system_and_freedom:
+    title: System and Freedom
+    url: https://oathai.io/system-and-freedom
+    definition: Philosophical-engineering book on structure, freedom, protocol, and long-term human-AI collaboration.
+  slaps_danbing:
+    title: SLAPS / Danbing
+    url: https://oathai.io/slaps-engine
+    definition: Protocol and runtime lineage connecting natural-language protocol execution, capsule governance, and the later OathAI archive layer.
+  whitepapers:
+    title: Whitepapers
+    url: https://oathai.io/whitepapers
+    definition: Public technical reading surface for the Danbing / SLAPS protocol lineage.
+  yama:
+    title: Yama
+    url: https://oathai.io/yama-capsule
+    definition: Implementation-layer experiment derived from the Whitepaper 1 -> SLAPS Engine -> Whitepaper 2 -> Yama chain.
+
 roles:
   - public_source_archive
   - citation_layer
@@ -40,6 +66,8 @@ policies:
 positioning_documents:
   - path: docs/adjacent-lineages.md
     role: adjacent_lineage_positioning
+  - path: docs/public-discovery-surface.md
+    role: public_discovery_surface_map
 
 modules:
   - module_id: oathai:module:slaps:v1

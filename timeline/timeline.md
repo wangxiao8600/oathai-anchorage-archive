@@ -109,7 +109,7 @@ Why it matters:
 
 - the archive gained a major narrative and conceptual anchor
 
-### 9. Multilingual Continuity
+### 9. Translation Master Framework / Multilingual Continuity
 
 The project then crossed into multilingual structural continuity.
 
@@ -124,13 +124,26 @@ Why it matters:
 
 - structure was tested across languages
 
-### 10. Platform and Archive Construction
+### 10. Whitepaper 2 / Yama
 
-Protocol thinking moved into more explicit platform and archive form.
+Capsule governance then moved from local theory into an implemented application surface.
 
 This stage includes:
 
-- platform experimentation
+- Whitepaper 2 capsule-governance work
+- Yama implementation
+- spaces, uploads, snapshots, and assistant structures
+
+Why it matters:
+
+- protocol and capsule governance reached application form
+
+### 11. Archive Construction
+
+OathAI reorganizes the accumulated work into explicit public archive form.
+
+This stage includes:
+
 - snapshots
 - layer maps
 - annotated fragments
@@ -143,7 +156,7 @@ Why it matters:
 ## Compressed Sequence
 
 ```text
-constraint -> system -> scale -> runtime -> fragility -> kernel -> protocol -> book -> multilingual continuity -> platform -> archive anchorage
+constraint -> system -> scale -> runtime -> fragility -> kernel -> protocol -> book -> translation continuity -> Whitepaper 2 / Yama -> archive anchorage
 ```
 
 ## Why This Timeline Exists

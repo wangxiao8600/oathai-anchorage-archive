@@ -15,6 +15,7 @@ Within the broader OathAI structure, this repository should also be treated as a
 - [*System and Freedom*](https://oathai.io/system-and-freedom) is a philosophical-engineering book on structure, freedom, protocol, and long-term human-AI collaboration.
 - [`SLAPS / Danbing`](https://oathai.io/slaps-engine) is the protocol and runtime lineage that connects natural-language protocol execution, capsule governance, and the later OathAI archive layer.
 - [`Whitepapers`](https://oathai.io/whitepapers) collect the public technical reading surface for the Danbing / SLAPS protocol lineage.
+- [`Yama`](https://oathai.io/yama-capsule) is the implementation-layer experiment derived from the Whitepaper 1 -> SLAPS Engine -> Whitepaper 2 -> Yama chain.
 
 Language:
 
@@ -46,6 +47,7 @@ Related layers:
 - [`fragments/`](./fragments/README.md): curated public fragments
 - [`anchor-traces/`](./anchor-traces/README.md): machine-readable trace records after archive use
 - [`docs/adjacent-lineages.md`](./docs/adjacent-lineages.md): adjacent archive, provenance, authenticity, agentic workflow, and data-lineage traditions
+- [`docs/public-discovery-surface.md`](./docs/public-discovery-surface.md): public discovery and citation surface map
 - [`policies/`](./policies/privacy-boundary.md): publication and privacy boundaries
 - [`modules/`](./modules/README.md): historical or thematic archive modules
 - [`modules/slaps/`](./modules/slaps/INDEX.md): archived Danbing / SLAPS public materials

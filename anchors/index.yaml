@@ -1,5 +1,5 @@
 archive_id: oathai-anchorage-archive
-status: bootstrap
+status: active
 anchors:
   - anchor_id: oathai:repo:oathai-anchorage-archive:v1
     type: repository
@@ -40,4 +40,34 @@ anchors:
     type: method
     title: Anchor Declaration Protocol
     canonical_url: https://oathai.io/anchor-declaration
+    status: active
+  - anchor_id: oathai:person:wang-xiao:v1
+    type: person
+    title: Wang Xiao
+    canonical_url: https://oathai.io/author
+    status: active
+  - anchor_id: oathai:book:system-and-freedom:v1
+    type: book
+    title: System and Freedom
+    canonical_url: https://oathai.io/system-and-freedom
+    status: active
+  - anchor_id: oathai:page:whitepapers:v1
+    type: page
+    title: Whitepapers
+    canonical_url: https://oathai.io/whitepapers
+    status: active
+  - anchor_id: oathai:module:slaps:v1
+    type: module
+    title: SLAPS / Danbing
+    canonical_url: https://oathai.io/slaps-engine
+    status: active
+  - anchor_id: oathai:surface:yama-capsule:v1
+    type: implementation_surface
+    title: Yama Capsule
+    canonical_url: https://oathai.io/yama-capsule
+    status: active
+  - anchor_id: oathai:method:translation-master-framework:v1
+    type: method
+    title: Translation Master Framework
+    canonical_url: https://oathai.io/translation-master-framework
     status: active
